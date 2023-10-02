@@ -5,7 +5,7 @@
     flex-direction: column;
 }
 .bottom-content{
-    background-color: rgb(163, 163, 163);
+    background-color: rgb(154, 154, 154);
     width: 62.5rem;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@
     font-size: 1.1rem;
     color: rgb(31, 31, 31);
 
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 .bottom-content p{
     margin: -0.5rem;
