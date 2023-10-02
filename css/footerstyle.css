@@ -1,0 +1,26 @@
+
+.bottom-wrapper{
+    width: 62.5rem;
+    display: flex;
+    flex-direction: column;
+}
+.bottom-content{
+    background-color: rgb(163, 163, 163);
+    width: 62.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 2rem;
+    font-size: 1.1rem;
+    color: rgb(31, 31, 31);
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.bottom-content p{
+    margin: -0.5rem;
+}
+.empty-area{
+    background-color: rgb(115, 115, 115);
+    height: 18rem;
+}
